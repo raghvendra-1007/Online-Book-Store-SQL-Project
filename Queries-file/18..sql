@@ -1,4 +1,4 @@
-List the cities where customers who spent over $30 are located
+#List the cities where customers who spent over $30 are located
 
 SELECT Customers.Name as NAME, Customers.City as CITY, SUM(Orders.Total_Amount) AS SPENDING
 FROM Customers
