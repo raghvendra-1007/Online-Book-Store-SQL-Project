@@ -1,4 +1,4 @@
-Find the customer who spent the most on orders
+#Find the customer who spent the most on orders
 
 SELECT Customers.Name AS NAME, SUM(Orders.Total_Amount) AS SPENDING
 FROM Customers
