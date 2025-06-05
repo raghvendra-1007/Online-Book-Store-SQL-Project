@@ -1,4 +1,4 @@
-List customers who have placed at least 2 orders
+#List customers who have placed at least 2 orders
 
 SELECT 
 Customers.Name AS NAME, COUNT(Orders.Customer_ID) AS "ORDER COUNT"
