@@ -1,3 +1,3 @@
-Retrieve all books in the "Fiction" genre
+#Retrieve all books in the "Fiction" genre
 
 SELECT * FROM Books WHERE Genre = "Fiction"; 
