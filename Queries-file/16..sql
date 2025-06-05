@@ -1,4 +1,4 @@
-Show the top 3 most expensive books of 'Fantasy' Genre
+#Show the top 3 most expensive books of 'Fantasy' Genre
 
 SELECT * 
 FROM Books 
