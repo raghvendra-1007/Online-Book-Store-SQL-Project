@@ -1,4 +1,4 @@
-Retrieve the total quantity of books sold by each author
+#Retrieve the total quantity of books sold by each author
 
 SELECT Books.Author AS "AUTHOR NAME", SUM(Orders.Quantity) AS "TOTAL QUANTITY"
 FROM Books
