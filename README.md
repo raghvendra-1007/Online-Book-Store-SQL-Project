@@ -39,7 +39,7 @@ The core tables include:
 - `OrderDetails` – Quantity-wise mapping of books to orders  
 
 📌 **Entity Relationship Diagram (ERD):**  
-![ER Diagram]([images/ERD_Online_Book_Store.png](https://github.com/raghvendra-1007/Online-Book-Store-SQL-Project/blob/main/Enhanced-entity-relationship%20Diagram/ER%20Diagram.png)****)
+![ER Diagram](https://github.com/raghvendra-1007/Online-Book-Store-SQL-Project/blob/main/ER%20Diagram.png)
 
 ---
 
